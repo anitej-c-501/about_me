@@ -1,0 +1,26 @@
+html {
+    font-size: 22px;
+}
+body {
+    background-color: black;
+    color: #efe3e3;
+}
+
+a {
+    color: rgb(212, 15, 206)
+}
+
+a:visited {
+    color: aquamarine;
+}
+
+a:hover, a:active {
+    color: greenyellow;
+}
+
+table, tr, th, td, caption {
+    border: 1px solid #efe3e3;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
